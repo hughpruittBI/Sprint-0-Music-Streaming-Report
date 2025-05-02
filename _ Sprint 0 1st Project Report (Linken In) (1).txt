@@ -1,0 +1,124 @@
+﻿Project status report
+
+
+REPORT DATE
+	COMPANY NAME
+	PREPARED BY
+	02/20/2025
+	Fresh Beats
+	Hugh Pruitt
+	STATUS SUMMARY
+
+
+Paid users are very valuable, so it is worth offering time-limited promotions and other deals to convert users from free to paid.
+
+
+
+
+	
+
+INSIGHT AND RECOMMENDATION 
+		
+
+Insights
+
+
+Pop genre peaked in 2021 and is on a downward trend.
+
+
+Electronic and hip hop music are overall on an upwards trend.
+	
+
+Visual A
+
+
+Add visual for the insight(s) here
+
+
+  
+
+	
+
+Recommendation
+
+
+It is worth doing deeper research into previous years to understand why pop is on a downwards trend.
+
+
+Marketing should try focused campaigns targeting typical demographics for fans of these genres.
+
+
+	
+
+
+
+INSIGHT AND RECOMMENDATION
+		
+
+Insights
+
+
+Paid users are more active (listen to more music) than free.
+	
+
+Visual B
+
+
+  
+ vi
+	
+
+Recommendations
+
+
+
+
+Paid users are very valuable, so it is worth offering time-limited promotions and other deals to convert users from free to paid.
+
+
+
+
+	
+
+INSIGHT AND RECOMMENDATION
+		
+
+Insights
+
+
+Paid users are more active (listen to more music) than free.
+
+
+Paid users have steadier growth and better user retention than free.
+
+
+	
+
+Visual C
+
+
+  
+
+	
+
+Recommendations
+
+
+
+
+Rock is the key genre for free users - we should experiment and research further to see how it can be leveraged to convert them to paid.
+
+
+
+
+
+
+
+
+	
+
+CONCLUSION
+
+
+This project analyzed six years of music streaming data across various genres to identify listener trends and potential growth areas. Both free and paid listener counts have steadily increased during this time. However, electronic music consistently ranked as the least played genre, suggesting it may not be worth deeper analysis.
+In contrast, indie music outperformed all others in listener engagement, and free listening strategies appear effective in converting users to paid subscribers—evidenced by significant growth in paid listener counts. Rock music is also showing an upward trend and could be a strong candidate for future marketing or content investment.
